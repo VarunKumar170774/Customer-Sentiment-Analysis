@@ -3,7 +3,7 @@
 
 Tool: Selenium and BeautifulSoup
 
-Task: Scrape at least customer reviews from Flipkart's product page for the iPhone 15 128GB model. Each review should include:
+Task: Scrape  customer reviews from Flipkart's product page for the iPhone 15 128GB model. Each review should include:
 
 Username: The name of the reviewer.
 
